@@ -12,7 +12,7 @@ const config = defineConfig({
     plugins: [structureTool()],
     schema: {types: schemas},
     scheduledPublishing: { enabled: true, showReleasesBanner: false },
-    //hello
+    
 
 })
 
